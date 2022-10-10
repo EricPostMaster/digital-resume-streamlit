@@ -16,9 +16,6 @@ Find his:
 ![Demo2](./assets/demo2.png?raw=true "Demo2")
 ![Demo3](./assets/demo3.png?raw=true "Demo3")
 
-## Video Tutorial
-[![YouTube Video](https://img.youtube.com/vi/BXAeMICmUSQ/0.jpg)](https://youtu.be/BXAeMICmUSQ)
-
 
 ## Requirements
 Install the dependencies with pip
@@ -33,14 +30,3 @@ Terminal
 # vanilla terminal
 streamlit run app.py
 ```
-
-## About Me
-- Sven from Coding Is Fun
-- YouTube: https://youtube.com/c/CodingIsFun
-- Website: https://pythonandvba.com
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X47Q0EG)
-
-## Feedback
-If you have any feedback, please reach out to me at contact@pythonandvba.com
-![Logo](https://www.pythonandvba.com/banner-img)
